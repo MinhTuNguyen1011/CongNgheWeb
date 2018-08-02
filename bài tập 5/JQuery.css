@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    }
+body {
+    text-align:center;
+    }
+#wrapper {
+    margin:auto;
+    width:800px;
+    }
+#header {
+    height:100px;
+    background:#99CC66;
+
+    }
+#footer {
+    height:100px;
+    background:#339933;
+    }
+#body_left {
+    float:left;
+    width:100px;
+    height:600px;
+    background:#FF9900;
+    }
+#body_main {
+    float:left;
+    width:700px;
+    height:600px;
+    background:#99CCFF;
+    }
+.vide {
+    clear:both;
+    }
+    
