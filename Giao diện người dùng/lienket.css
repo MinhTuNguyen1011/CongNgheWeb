@@ -1,0 +1,20 @@
+.lienket{       
+    background-color: white;
+    color: black;
+    border: 2px solid #73AD21;
+    border-radius:5px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    font-family: "Lucida Sans Unicode";
+}
+.lienket:hover{
+    background-color: #73AD21;
+    color:white;
+}
+.lienket:active{
+    background-color: green;
+    border-color: green;
+}
